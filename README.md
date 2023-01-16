@@ -1,7 +1,7 @@
 ![ScreenShot](https://www.maketecheasier.com/assets/uploads/2015/03/repairkeyboard-featured.jpg)
 
-# Windows laptop keyboad enabler/disabler
-Batch which enables and disables laptop keyboard on windows
+# Windows laptop keyboad disabler/enabler
+Batch script which disables and enables laptop keyboard on windows
 
 ## Description
 Useful if your windows laptop keyboard is stuck pressing one key.
