@@ -6,6 +6,8 @@ Batch script which disables and enables laptop keyboard on windows
 ## Description
 Useful if your windows laptop keyboard is stuck pressing one key.
 
+## Setup/Installation Requirements
+Download the script from the releases section and run it on your Windows laptop. The Disabler script and Enabler script are both included in the release section. The script should work on Windows 7/8/8.1/10/11. Tested and working on windows 11. 
 ### License
 MIT License
 
