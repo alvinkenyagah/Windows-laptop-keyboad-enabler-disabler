@@ -1,5 +1,5 @@
 <!-- ![ScreenShot](https://www.maketecheasier.com/assets/uploads/2015/03/repairkeyboard-featured.jpg) -->
-<img src="https://www.maketecheasier.com/assets/uploads/2015/03/repairkeyboard-featured.jpg" alt="screenshot" style="width:100%, height:100 px">
+<img src="https://www.maketecheasier.com/assets/uploads/2015/03/repairkeyboard-featured.jpg" alt="screenshot" width:"100" height:"100" >
 
 # Windows laptop keyboad disabler/enabler
 Batch script which disables and enables laptop inbuilt keyboard on windows
